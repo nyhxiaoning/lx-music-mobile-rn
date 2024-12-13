@@ -1,3 +1,10 @@
+# 初始化问题常见问题记录
+我已阅读常见问题(https://lyswhut.github.io/lx-music-doc/mobile/faq)，但没有找到解决方案
+我已搜索issue列表(https://github.com/lyswhut/lx-music-mobile/issues?utf8=✓&q=)，但没有发现类似的问题
+
+
+
+
 <p align="center"><a href="https://github.com/lyswhut/lx-music-mobile"><img width="200" src="https://github.com/lyswhut/lx-music-mobile/blob/master/doc/images/icon.png" alt="lx-music logo"></a></p>
 
 <p align="center">
